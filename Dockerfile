@@ -1,4 +1,4 @@
-FROM hyperbotauthor/chessbaseimage:latest
+FROM EshanHasaranga200703/chessbaseimage:latest
 
 COPY . .
 
